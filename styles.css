@@ -43,6 +43,13 @@ hr {
   border: 1px solid var(--primary-color);
 }
 
+.link-nextLine{
+  display: block;
+  width: 20%;
+  text-align: center;
+  margin: 1rem 0rem;
+}
+
 .list-non-bullet {
   list-style: none;
 }
